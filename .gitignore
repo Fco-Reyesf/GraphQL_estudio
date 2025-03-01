@@ -1,0 +1,3 @@
+# no agregar los packetes de node
+.\startedGuide\node_modules
+
